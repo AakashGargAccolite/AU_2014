@@ -1,0 +1,6 @@
+Assignment 1:
+	1) Install Maven
+	2) Generate a project from template 'maven-archetype-quickstart'
+	3) Browse and understand the generated files
+	4) Check-in under your git repository. maven/assignment1 with proper commit comment.
+	5) Do not checkin unnecessary files.
